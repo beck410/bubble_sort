@@ -1,0 +1,19 @@
+{
+  "name": "bubble_sort",
+  "version": "0.0.0",
+  "authors": [
+    "beck410 <beck410@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~2.2.1",
+    "chai": "~2.1.1"
+  }
+}
